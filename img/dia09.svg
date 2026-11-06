@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1140 1020"  role="img" aria-label="Ilustração noturna: mulher de cabelos grisalhos, sonolenta, de camisola e pantufas, caminhando para a porta do banheiro com a máscara na mão, enquanto o aparelho de CPAP na mesinha mostra uma carinha brava vermelha" style="display: block">
+    <rect x="0" y="0" width="1140" height="1020" fill="#232C47"></rect>
+    <rect x="0" y="880" width="1140" height="140" fill="#4A3B3A"></rect>
+    <rect x="40" y="60" width="200" height="170" rx="12" fill="#6E5440"></rect>
+    <rect x="54" y="74" width="80" height="66" fill="#141B30"></rect>
+    <rect x="146" y="74" width="80" height="66" fill="#141B30"></rect>
+    <rect x="54" y="152" width="80" height="64" fill="#141B30"></rect>
+    <rect x="146" y="152" width="80" height="64" fill="#141B30"></rect>
+    <circle cx="186" cy="104" r="20" fill="#F5D77A"></circle>
+    <circle cx="196" cy="98" r="18" fill="#141B30"></circle>
+    <rect x="-40" y="520" width="250" height="360" rx="30" fill="#6E5440"></rect>
+    <rect x="-40" y="660" width="240" height="220" rx="16" fill="#5174AD"></rect>
+    <rect x="230" y="600" width="190" height="280" rx="10" fill="#7A5A40"></rect>
+    <rect x="250" y="680" width="150" height="10" fill="#654832"></rect>
+    <rect x="240" y="520" width="170" height="80" rx="14" fill="#2A2A2E"></rect>
+    <circle cx="295" cy="558" r="58" fill="#E25555" opacity="0.15"></circle>
+    <rect x="256" y="534" width="78" height="52" rx="6" fill="#E25555"></rect>
+    <path d="M266 546 L 284 553" stroke="#2A2A2E" stroke-width="5" stroke-linecap="round"></path>
+    <path d="M324 546 L 306 553" stroke="#2A2A2E" stroke-width="5" stroke-linecap="round"></path>
+    <path d="M276 576 Q 295 564 314 576" fill="none" stroke="#2A2A2E" stroke-width="5" stroke-linecap="round"></path>
+    <circle cx="372" cy="560" r="18" fill="#9C9CA3"></circle>
+    <text x="300" y="500" text-anchor="middle" font-family="Nunito, sans-serif" font-size="56" font-weight="900" fill="#E25555">!!</text>
+    <path d="M410 570 C 460 660, 480 660, 494 606" fill="none" stroke="#DADDE6" stroke-width="18" stroke-linecap="round"></path>
+    <path d="M410 570 C 460 660, 480 660, 494 606" fill="none" stroke="#B8BCC7" stroke-width="4" stroke-dasharray="9 11" stroke-linecap="round"></path>
+    <rect x="870" y="280" width="220" height="600" rx="8" fill="#8E6B4E"></rect>
+    <rect x="895" y="310" width="170" height="240" rx="6" fill="#7A5A40"></rect>
+    <rect x="895" y="580" width="170" height="270" rx="6" fill="#7A5A40"></rect>
+    <rect x="930" y="400" width="100" height="56" rx="8" fill="#F6EBDD"></rect>
+    <text x="980" y="440" text-anchor="middle" font-family="Nunito, sans-serif" font-size="34" font-weight="900" fill="#4E3424">WC</text>
+    <circle cx="905" cy="600" r="11" fill="#F2C14E"></circle>
+    <rect x="870" y="874" width="220" height="8" fill="#F2C14E"></rect>
+    <g transform="translate(640 300) scale(0.75) translate(-420 -478)">
+      <path d="M298 345 Q 420 285 545 345 L 564 615 Q 530 632 500 612 L 340 612 Q 308 632 276 615 Z" fill="#C4C5CA"></path>
+      <rect x="385" y="555" width="70" height="80" fill="#E8BF9A"></rect>
+    </g>
+    <path d="M560 400 Q 640 380 720 400 L 770 730 Q 640 750 510 730 Z" fill="#E88FA0"></path>
+    <path d="M592 728 L 578 860" stroke="#E8BF9A" stroke-width="26" stroke-linecap="round"></path>
+    <path d="M688 728 L 702 860" stroke="#E8BF9A" stroke-width="26" stroke-linecap="round"></path>
+    <ellipse cx="572" cy="872" rx="48" ry="22" fill="#F7B6C8"></ellipse>
+    <circle cx="540" cy="862" r="13" fill="#FFFFFF"></circle>
+    <ellipse cx="712" cy="872" rx="48" ry="22" fill="#F7B6C8"></ellipse>
+    <circle cx="748" cy="862" r="13" fill="#FFFFFF"></circle>
+    <path d="M574 420 Q 520 500 504 562" fill="none" stroke="#E8BF9A" stroke-width="30" stroke-linecap="round"></path>
+    <path d="M708 420 Q 760 500 772 560" fill="none" stroke="#E8BF9A" stroke-width="30" stroke-linecap="round"></path>
+    <circle cx="772" cy="566" r="19" fill="#E8BF9A"></circle>
+    <path d="M478 594 Q 496 582 514 594 Q 524 616 512 630 Q 496 638 480 630 Q 468 616 478 594 Z" fill="#F3F4F6" stroke="#C5C8CF" stroke-width="5"></path>
+    <path d="M480 612 Q 456 640 466 680" fill="none" stroke="#F6F7F9" stroke-width="8" stroke-linecap="round"></path>
+    <path d="M512 612 Q 532 640 524 680" fill="none" stroke="#F6F7F9" stroke-width="8" stroke-linecap="round"></path>
+    <circle cx="504" cy="572" r="19" fill="#E8BF9A"></circle>
+    <g transform="translate(640 300) scale(0.75) translate(-420 -478)">
+      <ellipse cx="420" cy="478" rx="95" ry="108" fill="#E8BF9A"></ellipse>
+      <path d="M330 420 Q 340 345 420 335 Q 500 340 510 420 Q 470 360 420 362 Q 370 362 330 420 Z" fill="#A9AAB2"></path>
+      <path d="M366 464 L 400 464" stroke="#5A3E2B" stroke-width="8" stroke-linecap="round"></path>
+      <path d="M440 464 L 474 464" stroke="#5A3E2B" stroke-width="8" stroke-linecap="round"></path>
+      <ellipse cx="358" cy="505" rx="20" ry="12" fill="#F0A3A3" opacity="0.8"></ellipse>
+      <ellipse cx="482" cy="505" rx="20" ry="12" fill="#F0A3A3" opacity="0.8"></ellipse>
+      <ellipse cx="420" cy="552" rx="13" ry="17" fill="#B5524A"></ellipse>
+    </g>
+    <text x="520" y="200" font-family="Nunito, sans-serif" font-size="30" font-weight="800" fill="#8FA0C8">z</text>
+    <text x="490" y="160" font-family="Nunito, sans-serif" font-size="40" font-weight="800" fill="#8FA0C8">z</text>
+  </svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1140 1020"  role="img" aria-label="Ilustração em close: mulher de cabelos grisalhos deitada com máscara nasal de CPAP, olhos arregalados e uma bochecha inflada como balão, com a palavra PLOF" style="display: block">
+    <rect x="0" y="0" width="1140" height="1020" fill="#232C47"></rect>
+    <circle cx="120" cy="120" r="4" fill="#F6EBDD"></circle>
+    <circle cx="300" cy="60" r="3" fill="#F6EBDD"></circle>
+    <circle cx="760" cy="80" r="3" fill="#F6EBDD"></circle>
+    <path d="M1060 440 l5 13 13 5 -13 5 -5 13 -5 -13 -13 -5 13 -5 z" fill="#F6EBDD"></path>
+    <ellipse cx="570" cy="600" rx="500" ry="280" fill="#E6E1EE"></ellipse>
+    <path d="M624 252 C 600 110, 400 60, 180 0" fill="none" stroke="#DADDE6" stroke-width="22" stroke-linecap="round"></path>
+    <path d="M624 252 C 600 110, 400 60, 180 0" fill="none" stroke="#B8BCC7" stroke-width="5" stroke-dasharray="10 12" stroke-linecap="round"></path>
+    <g transform="translate(570 540) scale(1.7) translate(-420 -478)">
+      <path d="M298 345 Q 420 285 545 345 L 564 615 Q 530 632 500 612 L 340 612 Q 308 632 276 615 Z" fill="#C4C5CA"></path>
+      <ellipse cx="420" cy="478" rx="95" ry="108" fill="#E8BF9A"></ellipse>
+      <path d="M330 420 Q 340 345 420 335 Q 500 340 510 420 Q 470 360 420 362 Q 370 362 330 420 Z" fill="#A9AAB2"></path>
+      <path d="M362 430 Q 380 418 398 430" fill="none" stroke="#7A6656" stroke-width="4" stroke-linecap="round"></path>
+      <path d="M442 430 Q 460 418 478 430" fill="none" stroke="#7A6656" stroke-width="4" stroke-linecap="round"></path>
+      <circle cx="380" cy="458" r="11" fill="#FFFFFF"></circle>
+      <circle cx="380" cy="459" r="7" fill="#3B2A20"></circle>
+      <circle cx="460" cy="458" r="11" fill="#FFFFFF"></circle>
+      <circle cx="460" cy="459" r="7" fill="#3B2A20"></circle>
+      <ellipse cx="358" cy="510" rx="18" ry="11" fill="#F0A3A3" opacity="0.85"></ellipse>
+      <ellipse cx="497" cy="522" rx="60" ry="52" fill="#E8BF9A" stroke="#D9A882" stroke-width="3"></ellipse>
+      <ellipse cx="502" cy="522" rx="28" ry="17" fill="#F0A3A3" opacity="0.9"></ellipse>
+      <path d="M486 496 Q 498 490 510 496" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" opacity="0.8"></path>
+      <ellipse cx="424" cy="574" rx="9" ry="7" fill="#B5524A"></ellipse>
+      <path d="M392 512 Q 352 506 334 472" fill="none" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round"></path>
+      <path d="M448 512 Q 470 508 482 498" fill="none" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round"></path>
+      <path d="M420 478 Q 416 390 452 306" fill="none" stroke="#FFFFFF" stroke-width="11" stroke-linecap="round"></path>
+      <path d="M420 478 Q 416 390 452 306" fill="none" stroke="#C5C8CF" stroke-width="2.5" stroke-linecap="round"></path>
+      <path d="M397 482 Q 420 466 443 482 Q 462 520 446 542 Q 420 552 394 542 Q 378 520 397 482 Z" fill="#F3F4F6" stroke="#C5C8CF" stroke-width="5"></path>
+      <path d="M404 528 Q 420 536 436 528" fill="none" stroke="#D4D8DF" stroke-width="3.5" stroke-linecap="round"></path>
+    </g>
+    <path d="M820 560 Q 840 600 820 640" fill="none" stroke="#F2C14E" stroke-width="7" stroke-linecap="round"></path>
+    <path d="M850 540 Q 878 600 850 660" fill="none" stroke="#F2C14E" stroke-width="7" stroke-linecap="round"></path>
+    <path d="M0 880 Q 570 830 1140 880 L 1140 1020 L 0 1020 Z" fill="#5174AD"></path>
+    <path d="M120 930 Q 300 910 480 924" fill="none" stroke="#41629A" stroke-width="5"></path>
+    <path d="M1050 230 L 1007 209 L 1034 170 L 987 173 L 990 126 L 951 153 L 930 110 L 909 153 L 870 126 L 873 173 L 826 170 L 853 209 L 810 230 L 853 251 L 826 290 L 873 287 L 870 334 L 909 307 L 930 350 L 951 307 L 990 334 L 987 287 L 1034 290 L 1007 251 Z" fill="#F2C14E"></path>
+    <text x="930" y="250" text-anchor="middle" font-family="Nunito, sans-serif" font-size="56" font-weight="900" fill="#8A3A1C">PLOF!</text>
+  </svg>

@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1140 1020"  role="img" aria-label="Ilustração de manhã: mulher de cabelos grisalhos sentada na cama, sorrindo, segurando um diário; a máscara de CPAP descansa sobre a coberta e o aparelho está na mesinha" style="position: absolute; left: 0; bottom: 0; display: block">
+    <rect x="0" y="0" width="1140" height="1020" fill="#F6EBDD"></rect>
+    <rect x="0" y="780" width="1140" height="240" fill="#DAB28C"></rect>
+    <rect x="420" y="40" width="300" height="230" rx="14" fill="#8E6B4E"></rect>
+    <rect x="435" y="55" width="128" height="94" fill="#BEE1F2"></rect>
+    <rect x="577" y="55" width="128" height="94" fill="#BEE1F2"></rect>
+    <rect x="435" y="161" width="128" height="94" fill="#BEE1F2"></rect>
+    <rect x="577" y="161" width="128" height="94" fill="#BEE1F2"></rect>
+    <circle cx="640" cy="104" r="30" fill="#FFC94A"></circle>
+    <path d="M460 238 Q 474 218 494 226 Q 510 212 528 230 Q 544 230 544 245 L 454 245 Q 450 240 460 238 Z" fill="#FFFFFF"></path>
+    <rect x="30" y="560" width="190" height="250" rx="10" fill="#A8794F"></rect>
+    <rect x="50" y="640" width="150" height="10" fill="#8E6B4E"></rect>
+    <ellipse cx="100" cy="470" rx="22" ry="46" fill="#7FB069" transform="rotate(-25 100 470)"></ellipse>
+    <ellipse cx="150" cy="465" rx="22" ry="48" fill="#6A9C58" transform="rotate(22 150 465)"></ellipse>
+    <ellipse cx="125" cy="450" rx="20" ry="52" fill="#8BBE74"></ellipse>
+    <path d="M90 510 L 160 510 L 150 560 L 100 560 Z" fill="#C8693A"></path>
+    <rect x="230" y="360" width="680" height="440" rx="40" fill="#8E6B4E"></rect>
+    <rect x="400" y="390" width="340" height="220" rx="60" fill="#FFFFFF" stroke="#D8D0C8" stroke-width="6"></rect>
+    <g transform="translate(150 -8)">
+      <path d="M298 345 Q 420 285 545 345 L 564 615 Q 530 632 500 612 L 340 612 Q 308 632 276 615 Z" fill="#C4C5CA"></path>
+      <rect x="385" y="555" width="70" height="80" fill="#F0C9A4"></rect>
+    </g>
+    <path d="M440 650 Q 570 590 700 650 L 720 800 L 420 800 Z" fill="#E88FA0"></path>
+    <g transform="translate(150 -8)">
+      <ellipse cx="420" cy="478" rx="95" ry="108" fill="#F0C9A4"></ellipse>
+      <path d="M330 420 Q 340 345 420 335 Q 500 340 510 420 Q 470 360 420 362 Q 370 362 330 420 Z" fill="#A9AAB2"></path>
+      <path d="M368 462 Q 384 446 400 462" fill="none" stroke="#5A3E2B" stroke-width="7" stroke-linecap="round"></path>
+      <path d="M440 462 Q 456 446 472 462" fill="none" stroke="#5A3E2B" stroke-width="7" stroke-linecap="round"></path>
+      <ellipse cx="358" cy="505" rx="20" ry="12" fill="#F0A3A3" opacity="0.8"></ellipse>
+      <ellipse cx="482" cy="505" rx="20" ry="12" fill="#F0A3A3" opacity="0.8"></ellipse>
+      <path d="M418 500 Q 424 512 418 518" fill="none" stroke="#D9A07E" stroke-width="5" stroke-linecap="round"></path>
+      <path d="M392 540 Q 420 568 448 540" fill="#B5524A"></path>
+    </g>
+    <path d="M300 740 Q 570 705 840 740 L 900 880 Q 570 920 240 880 Z" fill="#5C8DC6"></path>
+    <path d="M330 790 Q 480 775 600 785" fill="none" stroke="#4A78B0" stroke-width="5"></path>
+    <path d="M560 830 Q 700 820 850 836" fill="none" stroke="#4A78B0" stroke-width="5"></path>
+    <path d="M800 742 C 860 700, 900 640, 945 540" fill="none" stroke="#DADDE6" stroke-width="20" stroke-linecap="round"></path>
+    <path d="M800 742 C 860 700, 900 640, 945 540" fill="none" stroke="#B8BCC7" stroke-width="5" stroke-dasharray="10 12" stroke-linecap="round"></path>
+    <path d="M762 728 Q 790 712 818 728 Q 832 756 818 772 Q 790 782 762 772 Q 748 756 762 728 Z" fill="#F3F4F6" stroke="#C5C8CF" stroke-width="6"></path>
+    <path d="M762 750 Q 720 748 706 770" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"></path>
+    <path d="M818 750 Q 860 752 870 776" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"></path>
+    <path d="M470 720 Q 430 680 500 640" fill="none" stroke="#F0C9A4" stroke-width="40" stroke-linecap="round"></path>
+    <path d="M672 720 Q 712 680 642 640" fill="none" stroke="#F0C9A4" stroke-width="40" stroke-linecap="round"></path>
+    <g transform="rotate(-4 571 640)">
+      <rect x="500" y="588" width="142" height="104" rx="8" fill="#C8693A"></rect>
+      <rect x="512" y="598" width="118" height="84" rx="4" fill="#FFF8EE"></rect>
+      <line x1="571" y1="598" x2="571" y2="682" stroke="#E2D3C0" stroke-width="4"></line>
+      <line x1="522" y1="620" x2="562" y2="620" stroke="#C9B8A4" stroke-width="4" stroke-linecap="round"></line>
+      <line x1="522" y1="638" x2="558" y2="638" stroke="#C9B8A4" stroke-width="4" stroke-linecap="round"></line>
+      <line x1="522" y1="656" x2="562" y2="656" stroke="#C9B8A4" stroke-width="4" stroke-linecap="round"></line>
+      <path d="M590 628 C 590 618, 604 614, 608 624 C 612 614, 626 618, 626 628 C 626 642, 608 652, 608 654 C 608 652, 590 642, 590 628 Z" fill="#E88FA0"></path>
+    </g>
+    <circle cx="500" cy="640" r="24" fill="#F0C9A4"></circle>
+    <circle cx="642" cy="640" r="24" fill="#F0C9A4"></circle>
+    <rect x="930" y="560" width="190" height="250" rx="10" fill="#A8794F"></rect>
+    <rect x="950" y="640" width="150" height="10" fill="#8E6B4E"></rect>
+    <rect x="940" y="480" width="170" height="80" rx="14" fill="#2A2A2E"></rect>
+    <rect x="956" y="496" width="62" height="46" rx="6" fill="#5BB6E6"></rect>
+    <circle cx="1068" cy="520" r="18" fill="#9C9CA3"></circle>
+    <circle cx="1030" cy="480" r="7" fill="#7BE07B"></circle>
+    <path d="M330 470 l5 13 13 5 -13 5 -5 13 -5 -13 -13 -5 13 -5 z" fill="#FFC94A"></path>
+    <path d="M800 440 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4 z" fill="#FFC94A"></path>
+    <path d="M770 330 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3 z" fill="#FFC94A"></path>
+  </svg>

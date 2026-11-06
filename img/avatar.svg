@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080"  role="img" aria-label="Foto de perfil ilustrada: mulher de cabelos grisalhos sorrindo, segurando uma caneca de café com vapor em forma de coração" style="display: block">
+    <circle cx="540" cy="540" r="540" fill="#F2C18E"></circle>
+    <circle cx="540" cy="520" r="400" fill="#F6EBDD" opacity="0.55"></circle>
+    <g transform="translate(540 470) scale(1.6) translate(-420 -478)">
+      <path d="M298 345 Q 420 285 545 345 L 564 615 Q 530 632 500 612 L 340 612 Q 308 632 276 615 Z" fill="#C4C5CA"></path>
+      <rect x="385" y="555" width="70" height="80" fill="#F0C9A4"></rect>
+    </g>
+    <ellipse cx="540" cy="1010" rx="340" ry="250" fill="#E88FA0"></ellipse>
+    <g transform="translate(540 470) scale(1.6) translate(-420 -478)">
+      <ellipse cx="420" cy="478" rx="95" ry="108" fill="#F0C9A4"></ellipse>
+      <path d="M330 420 Q 340 345 420 335 Q 500 340 510 420 Q 470 360 420 362 Q 370 362 330 420 Z" fill="#A9AAB2"></path>
+      <path d="M364 434 Q 380 424 398 430" fill="none" stroke="#7A6656" stroke-width="4" stroke-linecap="round"></path>
+      <path d="M442 430 Q 460 424 476 434" fill="none" stroke="#7A6656" stroke-width="4" stroke-linecap="round"></path>
+      <path d="M366 462 Q 382 448 398 462" fill="none" stroke="#5A3E2B" stroke-width="6" stroke-linecap="round"></path>
+      <path d="M442 462 Q 458 448 474 462" fill="none" stroke="#5A3E2B" stroke-width="6" stroke-linecap="round"></path>
+      <ellipse cx="358" cy="505" rx="20" ry="12" fill="#F0A3A3" opacity="0.9"></ellipse>
+      <ellipse cx="482" cy="505" rx="20" ry="12" fill="#F0A3A3" opacity="0.9"></ellipse>
+      <path d="M418 498 Q 425 510 418 516" fill="none" stroke="#D9A07E" stroke-width="4" stroke-linecap="round"></path>
+      <path d="M388 536 Q 420 576 452 536 Z" fill="#B5524A"></path>
+    </g>
+    <path d="M330 870 Q 420 880 600 846" fill="none" stroke="#D97A8D" stroke-width="64" stroke-linecap="round"></path>
+    <path d="M770 820 Q 830 820 830 865 Q 830 910 770 910" fill="none" stroke="#C8693A" stroke-width="20"></path>
+    <rect x="610" y="780" width="170" height="160" rx="26" fill="#C8693A"></rect>
+    <path d="M674 850 C 674 836, 692 832, 696 846 C 700 832, 718 836, 718 850 C 718 868, 696 880, 696 882 C 696 880, 674 868, 674 850 Z" fill="#F6EBDD"></path>
+    <path d="M668 760 Q 656 736 672 716 Q 688 696 674 676" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" opacity="0.9"></path>
+    <path d="M722 760 Q 710 736 726 716 Q 742 696 728 676" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" opacity="0.9"></path>
+    <path d="M676 660 C 676 646, 694 642, 698 656 C 702 642, 720 646, 720 660 C 720 678, 698 690, 698 692 C 698 690, 676 678, 676 660 Z" fill="#FFFFFF"></path>
+    <circle cx="612" cy="862" r="38" fill="#F0C9A4"></circle>
+  </svg>
