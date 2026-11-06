@@ -284,3 +284,6 @@ a:hover { color: #8A3A1C; }
   .entrada { grid-template-columns: minmax(0, 1fr); gap: 20px; }
   .entrada:nth-child(even) .entrada-img { order: 0; }
 }
+
+.quando-topo { font-size: 15px; font-weight: 800; color: var(--terracota); margin: 0 0 8px; text-align: left; }
+.indicacoes h3 a { color: var(--cafe); }
