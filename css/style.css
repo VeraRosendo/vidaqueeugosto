@@ -267,3 +267,20 @@ a:hover { color: #8A3A1C; }
 .forca.forte { background: var(--verde); }
 .forca.condicional { background: var(--azul); }
 .forca.investigacao { background: var(--pessego); }
+
+/* Diário */
+.entradas { display: grid; gap: 72px; margin-top: 56px; }
+.entrada { display: grid; grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr); gap: 40px; align-items: start; scroll-margin-top: 90px; }
+.entrada:nth-child(even) .entrada-img { order: 2; }
+.entrada-img img { border-radius: 24px; width: 100%; }
+.entrada .quando { font-size: 15px; font-weight: 800; color: var(--terracota); margin: 0 0 6px; text-align: left; }
+.entrada h2 { margin: 0 0 14px !important; font-size: clamp(24px, 2.8vw, 32px) !important; }
+.entrada p { margin: 0 0 14px; }
+.boletim { display: flex; flex-wrap: wrap; gap: 8px; margin: 4px 0 16px; padding: 0; list-style: none; }
+.boletim li { background: var(--creme-2); border-radius: 999px; padding: 6px 14px; font-size: 15px; font-weight: 800; margin: 0; }
+.licao { background: var(--creme-2); border-radius: 24px; padding: 16px 20px; font-weight: 600; }
+.licao strong { color: var(--terracota); }
+@media (max-width: 760px) {
+  .entrada { grid-template-columns: minmax(0, 1fr); gap: 20px; }
+  .entrada:nth-child(even) .entrada-img { order: 0; }
+}
