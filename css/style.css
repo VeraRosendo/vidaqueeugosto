@@ -259,3 +259,11 @@ a:hover { color: #8A3A1C; }
 .referencias { font-size: 16px; }
 .referencias li { margin-bottom: 12px; }
 @media (max-width: 760px) { .escala { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+
+.indicacoes h3 { margin: 10px 0 8px; }
+.indicacoes p { margin: 0 0 10px; }
+.indicacoes p:last-child { margin-bottom: 0; }
+.forca { display: inline-block; font-size: 14px; font-weight: 800; padding: 4px 14px; border-radius: 999px; }
+.forca.forte { background: var(--verde); }
+.forca.condicional { background: var(--azul); }
+.forca.investigacao { background: var(--pessego); }
