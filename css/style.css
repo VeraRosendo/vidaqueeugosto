@@ -301,3 +301,14 @@ a:hover { color: #8A3A1C; }
 .retrato.redondo { border-radius: 50%; }
 
 .retrato { height: auto; aspect-ratio: 1 / 1; object-fit: cover; }
+
+/* Dúvidas */
+.leitura details { background: var(--creme-2); border-radius: 22px; margin: 0 0 12px; padding: 0 22px; }
+.leitura summary { cursor: pointer; font-weight: 800; font-size: 18px; padding: 16px 28px 16px 0; list-style: none; position: relative; }
+.leitura summary::-webkit-details-marker { display: none; }
+.leitura summary::after { content: "+"; position: absolute; right: 0; top: 12px; font-size: 24px; color: var(--terracota); font-weight: 900; }
+.leitura details[open] summary::after { content: "−"; }
+.leitura details p { margin: 0 0 18px; }
+.alerta { background: #FBE3E3; border-radius: 28px; padding: 22px 26px; margin: 0 0 24px; }
+.alerta h2 { margin: 0 0 8px !important; font-size: 22px !important; color: #9B2C2C; }
+.alerta p { margin: 0; font-weight: 600; }
