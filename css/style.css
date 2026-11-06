@@ -143,10 +143,7 @@ a:hover { color: #8A3A1C; }
   display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); gap: 40px; align-items: center;
   margin-bottom: 56px;
 }
-.destaque img {
-  border-radius: 42% 58% 46% 54% / 54% 44% 56% 46%;
-  border: 8px solid var(--amarelo);
-}
+.destaque img { border-radius: 16px; }
 .destaque h3 { font-size: clamp(26px, 3vw, 34px); line-height: 1.15; margin: 0 0 12px; color: #F6EBDD; }
 .destaque p { color: var(--lilas); margin: 0 0 24px; }
 .destaque .botao-principal { background: var(--amarelo); color: var(--noite); box-shadow: 0 6px 0 #C99A2E; }
