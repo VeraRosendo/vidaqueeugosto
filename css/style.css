@@ -334,3 +334,12 @@ a:hover { color: #8A3A1C; }
 .combinado { padding-left: 1.2em; }
 .combinado li { margin-bottom: 8px; }
 @media (max-width: 720px) { .dupla { grid-template-columns: 1fr; } .ficha { grid-template-columns: 1fr; gap: 0; } .ficha dd { margin-bottom: 8px; } }
+
+/* Vídeos */
+.videos { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 24px; margin: 28px 0 36px; }
+.video { display: block; background: var(--creme-2); border-radius: 28px; overflow: hidden; text-decoration: none; color: var(--cafe); box-shadow: 0 8px 20px rgba(78,52,36,.08); padding-bottom: 18px; }
+.video img { width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; display: block; }
+.video .ep { display: block; margin: 14px 18px 2px; font-weight: 800; font-size: 14px; color: var(--terracota); text-transform: uppercase; letter-spacing: .5px; }
+.video strong { display: block; margin: 0 18px; font-size: 19px; line-height: 1.25; }
+.video .desc { display: block; margin: 6px 18px 0; font-size: 15px; line-height: 1.4; }
+.video:hover strong { text-decoration: underline; }
